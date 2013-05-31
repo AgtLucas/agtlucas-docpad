@@ -21,7 +21,7 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Lucas"
 
 			# The website description (for SEO)
 			description: """

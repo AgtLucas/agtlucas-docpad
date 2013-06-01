@@ -11,6 +11,12 @@
       "dest": "out/styles/all.css"
     }
   },
+  "sass": {
+    "sass": {
+      "src": ["out/styles/base.css"],
+      "dest": "out/styles/all.css"
+    }
+  },
   "cssmin": {
     "all": {
       "src": ["out/styles/all.css"],

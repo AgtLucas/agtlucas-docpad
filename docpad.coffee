@@ -58,6 +58,14 @@ docpadConfig = {
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
 
+		# =================================
+		# DocPad Plugins
+
+		plugins:
+			sass:
+				sassPath: '/src/documents/styles/sass/'
+				scssPath: '/src/documents/styles/sass/'
+
 		getGruntedStyles: ->
 			_ = require 'underscore'
 			styles = []

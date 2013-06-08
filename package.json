@@ -48,8 +48,7 @@
   },
   "devDependencies": {
     "docpad-plugin-livereload": "2.x",
-    "grunt": "~0.4.1",
-    "grunt-contrib-sass": "~0.3.0"
+    "grunt": "~0.4.1"
   },
   "main": "node_modules/docpad/bin/docpad-server"
 }
